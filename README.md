@@ -1,3 +1,5 @@
-Hi, I'm Guddla Rajeswari 👋
+Hi, I'm Guddla Rajeswari
 
 I'm a passionate Data Science enthusiast with a strong foundation in data analysis, statistics, and visualization. I enjoy working with real-world datasets, performing exploratory data analysis, and extracting meaningful insights that support data-driven decision-making.
+
+I am skilled in Python and SQL with hands-on experience in data analysis using Pandas and NumPy. I create clear and impactful visualizations using Power BI, Matplotlib, and Seaborn, and work with MySQL for database design and data modeling. I have a solid understanding of statistics and machine learning fundamentals, and regularly use Jupyter Notebook, Google Colab, PyCharm, Git, and GitHub for efficient analysis and collaboration.
